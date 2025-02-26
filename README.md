@@ -1,6 +1,6 @@
 # WHMCS 支付宝支付插件
 
-## 目录结构 
+## 网站目录结构 
 ```
 modules/
 ├── gateways/
@@ -17,7 +17,7 @@ https://b.alipay.com/page/product-mall/all-product
 签约“当面付”和“电脑网站支付”
 
 1. **文件部署**
-   - 将 `modules` 目录下的所有文件复制到 WHMCS 根目录对应位置
+   - 将 `gateways` 目录下的所有文件复制到 WHMCS 根目录对应位置
    - 确保文件权限正确（建议 755）
 
 2. **获取支付宝配置**
