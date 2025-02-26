@@ -1,0 +1,20 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "Alipaywhmcs",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "Alipaywhmcs",
+    "tagline": "WHMCS 支付宝支付插件"
+  },
+  "support": {
+    "docs_url": "https://github.com/muzihuaner/WHMCS-ALIPAY"
+  },
+  "authors": [
+    {
+      "name": "muzihuaner",
+      "homepage": "https://github.com/muzihuaner"
+    }
+  ]
+}
