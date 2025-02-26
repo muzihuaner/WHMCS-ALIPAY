@@ -12,6 +12,9 @@ modules/
 ```
 
 ## 安装步骤
+开始前需要在
+https://b.alipay.com/page/product-mall/all-product
+签约“当面付”和“电脑网站支付”
 
 1. **文件部署**
    - 将 `modules` 目录下的所有文件复制到 WHMCS 根目录对应位置
